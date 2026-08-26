@@ -7,12 +7,14 @@ Pequenas e médias empresas estão cada vez mais dependentes de recursos tecnol�
 # Objetivo geral: 
 Analisar os principais riscos de Cibersegurança enfrentados por pequenas e médias empresas e identificar boas práticas e controles que possam reduzir esses riscos.
 
-# Objetivos específicos: 
-<ul>Identificar as principais ameaças cibernéticas enfrentadas pelas PMEs;</ul>
-<ul>Compreender os principais controles de segurança recomendados;</ul>
-<ul>Investigar a importância de políticas de segurança;</ul>
-<ul>Avaliar a importância da conscientização dos usuários;</ul>
-<ul>Estudar mecanismos como MFA, backup, firewall e segmentação de rede;</ul>
-<ul>Compreender como o gerenciamento de riscos pode auxiliar na proteção da organização;</ul>
-<ul>Utilizar o NotebookLM para analisar e relacionar diferentes fontes;</ul>
-<ul>Desenvolver um miniguia de cibersegurança aplicável a pequenas e médias empresas.</ul>
+# Objetivos específicos:
+ <ul>
+  <li>Identificar as principais ameaças cibernéticas enfrentadas pelas PMEs;</li>
+  <li>Compreender os principais controles de segurança recomendados;</li>
+  <li>Investigar a importância de políticas de segurança;</li>
+  <li>Avaliar a importância da conscientização dos usuários;</li>
+  <li>Estudar mecanismos como MFA, backup, firewall e segmentação de rede;</li>
+  <li>Compreender como o gerenciamento de riscos pode auxiliar na proteção da organização;</li>
+  <li>Utilizar o NotebookLM para analisar e relacionar diferentes fontes;</li>
+  <li>Desenvolver um miniguia de Cibersegurança aplicável a pequenas e médias empresas.</li>
+</ul>
