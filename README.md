@@ -40,7 +40,7 @@ Durante o projeto foram selecionadas fontes de pesquisa em conformidade com os o
 
 <b>Prompt:</b> Com base exclusivamente nas fontes deste notebook, identifique os principais riscos de Cibersegurança enfrentados por pequenas e médias empresas. Para cada risco, apresente: descrição, causa, impacto potencial, nível de criticidade e medidas de mitigação. Cite a fonte utilizada para cada afirmação.
 
-Esta configuração de prompt é muito melhor porque define: Fonte + contexto + tarefa + formato + critério de evidência.
+Esta configuração de prompt é muito melhor porque são definidas: Fonte + contexto + tarefa + formato + critério de evidência.
 
 <b>Experimento 3 — Cenário realista</b>
 
@@ -67,7 +67,6 @@ Tentativas de enganar usuários para obter credenciais ou informações.
 Principal vetor: fator humano.
 
 Prevenção:
-
 <ul>
  <li>Treinamento;</li>
  <li>MFA;</li> 
@@ -95,7 +94,6 @@ Medidas importantes:
 O atacante obtém usuário e senha por phishing, vazamentos, reutilização de senhas ou outras técnicas.
 
 Controles:
-
 <ul>
  <li>MFA;</li>
  <li>senhas fortes;</li> 
@@ -118,7 +116,6 @@ Controles:
 </ul>
 
 <b>Glossário</b>
-
 <ul>
  <li>MFA: Autenticação utilizando múltiplos fatores;</li>
  <li>Firewall: Controle do tráfego de rede;</li>
