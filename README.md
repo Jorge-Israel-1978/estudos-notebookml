@@ -48,4 +48,85 @@ Esta configuração de prompt é muito melhor porque define: Fonte + contexto + 
 
 <b>Aprendizado:</b> com prompts baseados em cenários, percebe-se que o NotebookLM está sendo utilizado para resolução de problemas, e não simplesmente para responder perguntas.
 
-# Miniguia de Estudo 
+# Miniguia de Estudos
+
+<b>Fundamentos de Cibersegurança</b>
+
+Confidencialidade: Garantir que informações sejam acessadas somente por pessoas autorizadas.
+
+Integridade: Garantir que os dados não sejam alterados indevidamente.
+
+Disponibilidade: Garantir que sistemas e informações estejam disponíveis quando necessários.
+
+<b>Principais ameaças às PMEs</b>
+
+<b>1- Phishing</b>
+
+Tentativas de enganar usuários para obter credenciais ou informações.
+
+Principal vetor: fator humano.
+
+Prevenção:
+
+<ul>
+ <li>Treinamento;</li>
+ <li>MFA;</li> 
+ <li>Filtros de e-mail;</li>
+ <li>Autenticação;</li>
+ <li>Conscientização.</li>
+ </ul>
+ 
+<b>2- Ransomware</b>
+
+Malware utilizado para impedir o acesso aos dados ou sistemas, frequentemente associado à extorsão.
+
+Medidas importantes:
+<ul>
+ <li>Backups; </li>
+ <li>Segmentação; </li>
+ <li>Atualizações; </li>
+ <li>Antimalware; </li>
+ <li>MFA;</li>
+ <li>Treinamento.</li>
+</ul>
+
+<b>3- Roubo de credenciais</b>
+
+O atacante obtém usuário e senha por phishing, vazamentos, reutilização de senhas ou outras técnicas.
+
+Controles:
+
+<ul>
+ <li>MFA;</li>
+ <li>senhas fortes;</li> 
+ <li>gerenciadores de senhas; </li>
+ <li>princípio do menor privilégio. </li>
+</ul>
+
+<br>Controles essenciais para uma PME</br>
+<ul>
+ <li>MFA; <li> 
+ <li>Políticas de senhas;  <li>
+ <li>Backup;  <li>
+ <li>Atualizações e patches; <li> 
+ <li>Firewall;  <li>
+ <li>Segmentação de rede; <li> 
+ <li>Proteção contra malware;  <li>
+ <li>Treinamento dos colaboradores;  <li>
+ <li>Política de Segurança da Informação; <li> 
+ <li>Plano de resposta a incidentes. <li> 
+________________________________________
+#Glossário
+Termo	Definição
+MFA: Autenticação utilizando múltiplos fatores
+Firewall: Controle do tráfego de rede
+Phishing: Fraude para induzir usuários a fornecer informações
+Ransomware: 	Malware utilizado para bloquear/criptografar dados e exigir resgate
+Malware:	Software desenvolvido para realizar ações maliciosas
+VPN:	Tecnologia para estabelecer comunicação protegida através de uma rede
+IAM:	Gerenciamento de identidades e acessos
+Zero Trust:	Modelo baseado na premissa de não confiar implicitamente
+Backup:	Cópia de segurança dos dados
+
+
+
