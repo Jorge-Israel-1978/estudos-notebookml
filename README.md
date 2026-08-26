@@ -1,12 +1,12 @@
 # Cibersegurança para Pequenas e Médias Empresas: Utilizando o NotebookLM para Análise de Riscos e Boas Práticas
 
-# Contexto:
+# Contexto
 Pequenas e médias empresas estão cada vez mais dependentes de recursos tecnológicos para executar suas atividades. Sistemas em nuvem, redes corporativas, dispositivos móveis, aplicações web, serviços de terceiros e ferramentas de comunicação ampliam a produtividade, mas também aumentam a superfície de ataque. Ao contrário de grandes organizações, muitas pequenas e médias empresas possuem recursos financeiros e equipes de TI limitados, tornando a implementação de uma estratégia de segurança um desafio. Entre os riscos estão: Phishing, Ransomware, Malware, Roubo de credenciais, Vazamento de informações, Engenharia socia e Falta de treinamento dos colaboradores.
 
-# Objetivo geral: 
+# Objetivo geral
 Analisar os principais riscos de Cibersegurança enfrentados por pequenas e médias empresas e identificar boas práticas e controles que possam reduzir esses riscos.
 
-# Objetivos específicos:
+# Objetivos específicos
  <ul>
   <li>Identificar as principais ameaças cibernéticas enfrentadas pelas PMEs;</li>
   <li>Compreender os principais controles de segurança recomendados;</li>
@@ -18,7 +18,7 @@ Analisar os principais riscos de Cibersegurança enfrentados por pequenas e méd
   <li>Desenvolver um miniguia de Cibersegurança aplicável a pequenas e médias empresas.</li>
 </ul>
 
-# Curadoria de Fontes:
+# Curadoria de Fontes
 Durante o projeto foram selecionadas fontes de pesquisa em conformidade com os objetivos apresentados. Dentre fontes como vídeos, arquivos em PDF. Dessa forma, seguem as fontes pesquisadas com os seus respectivos links de acesso. 
 <ul>
   <li>Identificar as principais ameaças cibernéticas enfrentadas pelas PMEs - https://www.youtube.com/watch?v=-t7l3GRK_L0;</li>
@@ -47,3 +47,5 @@ Esta configuração de prompt é muito melhor porque define: Fonte + contexto + 
 <b>Prompt:</b> Considere uma pequena empresa com 50 funcionários, uma rede Wi-Fi corporativa, acesso à Internet, Microsoft 365, computadores Windows, sistema ERP em nuvem e ausência de uma equipe dedicada de segurança. Com base exclusivamente nas fontes disponíveis, identifique os principais riscos dessa organização e proponha um plano de segurança priorizado.
 
 <b>Aprendizado:</b> com prompts baseados em cenários, percebe-se que o NotebookLM está sendo utilizado para resolução de problemas, e não simplesmente para responder perguntas.
+
+# Miniguia de Estudo 
