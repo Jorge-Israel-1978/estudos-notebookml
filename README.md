@@ -137,3 +137,5 @@ Controles:
 <b>Prompt para cenário empresarial:</b> Considere uma pequena empresa com [DESCREVA O CENÁRIO]. Analise os principais riscos de segurança da organização com base nas fontes disponíveis. Para cada risco, apresente causa, impacto, probabilidade e medidas de mitigação.
 
 <b>Prompt para análise de risco:</b> Identifique os principais riscos de cibersegurança relacionados a [TEMA]. Classifique-os considerando probabilidade e impacto e apresente medidas de mitigação recomendadas pelas fontes.
+
+<b>Segue o link do NotebookLM criado para este projeto: https://notebook.google.com/notebook/482ae9fc-b7ef-413d-b763-4902d9566503 </b>
