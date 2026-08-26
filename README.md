@@ -103,30 +103,40 @@ Controles:
  <li>princípio do menor privilégio. </li>
 </ul>
 
-<br>Controles essenciais para uma PME</br>
+<b>Controles essenciais para uma PME</b>
 <ul>
- <li>MFA; <li> 
- <li>Políticas de senhas;  <li>
- <li>Backup;  <li>
- <li>Atualizações e patches; <li> 
- <li>Firewall;  <li>
- <li>Segmentação de rede; <li> 
- <li>Proteção contra malware;  <li>
- <li>Treinamento dos colaboradores;  <li>
- <li>Política de Segurança da Informação; <li> 
- <li>Plano de resposta a incidentes. <li> 
-________________________________________
-#Glossário
-Termo	Definição
-MFA: Autenticação utilizando múltiplos fatores
-Firewall: Controle do tráfego de rede
-Phishing: Fraude para induzir usuários a fornecer informações
-Ransomware: 	Malware utilizado para bloquear/criptografar dados e exigir resgate
-Malware:	Software desenvolvido para realizar ações maliciosas
-VPN:	Tecnologia para estabelecer comunicação protegida através de uma rede
-IAM:	Gerenciamento de identidades e acessos
-Zero Trust:	Modelo baseado na premissa de não confiar implicitamente
-Backup:	Cópia de segurança dos dados
+ <li>MFA; </li> 
+ <li>Políticas de senhas; </li>
+ <li>Backup; </li> 
+ <li>Atualizações e patches; </li> 
+ <li>Firewall; </li> 
+ <li>Segmentação de rede;</li>  
+ <li>Proteção contra malware;</li> 
+ <li>Treinamento dos colaboradores;</li> 
+ <li>Política de Segurança da Informação;</li> 
+ <li>Plano de resposta a incidentes.</li> 
+</ul>
 
+<b>Glossário</b>
 
+<ul>
+ <li>MFA: Autenticação utilizando múltiplos fatores;</li>
+ <li>Firewall: Controle do tráfego de rede;</li>
+ <li>Phishing: Fraude para induzir usuários a fornecer informações;</li>
+ <li>Ransomware: 	Malware utilizado para bloquear/criptografar dados e exigir resgate;</li>
+ <li>Malware:	Software desenvolvido para realizar ações maliciosas;</li>
+ <li>VPN:	Tecnologia para estabelecer comunicação protegida através de uma rede;</li>
+ <li>IAM:	Gerenciamento de identidades e acessos;</li>
+ <li>Zero Trust:	Modelo baseado na premissa de não confiar implicitamente;</li>
+ <li>Backup:	Cópia de segurança dos dados</li>.
+</ul>
 
+<b>Biblioteca de Prompts Reutilizáveis</b>
+
+<b>Prompt para resumo: </b>Com base exclusivamente nas fontes deste notebook, explique [TEMA] de forma didática, considerando um profissional iniciante em Cibersegurança. Apresente conceito, finalidade, exemplos práticos, riscos e principais boas práticas.
+
+<b>Prompt para estudo:</b> Crie 10 perguntas de revisão sobre [TEMA], variando entre questões conceituais e situações práticas. Não apresente as respostas inicialmente. Depois que eu responder, avalie meu desempenho com base nas fontes do notebook.
+
+<b>Prompt para cenário empresarial:</b> Considere uma pequena empresa com [DESCREVA O CENÁRIO]. Analise os principais riscos de segurança da organização com base nas fontes disponíveis. Para cada risco, apresente causa, impacto, probabilidade e medidas de mitigação.
+
+<b>Prompt para análise de risco:</b> Identifique os principais riscos de cibersegurança relacionados a [TEMA]. Classifique-os considerando probabilidade e impacto e apresente medidas de mitigação recomendadas pelas fontes.
