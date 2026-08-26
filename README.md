@@ -28,3 +28,22 @@ Durante o projeto foram selecionadas fontes de pesquisa em conformidade com os o
 </ul>
 
 # Engenharia de Prompts e "Cicatrizes": 
+<b>Experimento 1 — Prompt inicial</b>
+
+<b>Prompt:</b> Quais são os principais riscos de Cibersegurança para pequenas empresas?
+
+<b>Problema:</b> A resposta pode ser muito genérica. O prompt pode listar riscos como phishing, ransomware,  malware, senhas fracas e vazamento de dados. Porém não necessariamente explica prioridade, impacto ou mitigação. 
+
+<b>Aprendizado:</b> Percebe-se que perguntas muito amplas geravam respostas pouco específicas.
+
+<b>Experimento 2 — Prompt contextualizado</b>
+
+<b>Prompt:</b> Com base exclusivamente nas fontes deste notebook, identifique os principais riscos de Cibersegurança enfrentados por pequenas e médias empresas. Para cada risco, apresente: descrição, causa, impacto potencial, nível de criticidade e medidas de mitigação. Cite a fonte utilizada para cada afirmação.
+
+Esta configuração de prompt é muito melhor porque define: Fonte + contexto + tarefa + formato + critério de evidência.
+
+<b>Experimento 3 — Cenário realista</b>
+
+<b>Prompt:</b> Considere uma pequena empresa com 50 funcionários, uma rede Wi-Fi corporativa, acesso à Internet, Microsoft 365, computadores Windows, sistema ERP em nuvem e ausência de uma equipe dedicada de segurança. Com base exclusivamente nas fontes disponíveis, identifique os principais riscos dessa organização e proponha um plano de segurança priorizado.
+
+<b>Aprendizado:</b> com prompts baseados em cenários, percebe-se que o NotebookLM está sendo utilizado para resolução de problemas, e não simplesmente para responder perguntas.
