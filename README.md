@@ -1,4 +1,3 @@
-# estudos-notebookml
 # Cibersegurança para Pequenas e Médias Empresas: Utilizando o NotebookLM para Análise de Riscos e Boas Práticas
 
 # Contexto:
