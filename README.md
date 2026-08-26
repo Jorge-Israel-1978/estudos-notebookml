@@ -1,5 +1,5 @@
 # estudos-notebookml
-Cibersegurança para Pequenas e Médias Empresas: Utilizando o NotebookLM para Análise de Riscos e Boas Práticas
+# Cibersegurança para Pequenas e Médias Empresas: Utilizando o NotebookLM para Análise de Riscos e Boas Práticas
 
 # Contexto:
 Pequenas e médias empresas estão cada vez mais dependentes de recursos tecnológicos para executar suas atividades. Sistemas em nuvem, redes corporativas, dispositivos móveis, aplicações web, serviços de terceiros e ferramentas de comunicação ampliam a produtividade, mas também aumentam a superfície de ataque. Ao contrário de grandes organizações, muitas pequenas e médias empresas possuem recursos financeiros e equipes de TI limitados, tornando a implementação de uma estratégia de segurança um desafio. Entre os riscos estão: Phishing, Ransomware, Malware, Roubo de credenciais, Vazamento de informações, Engenharia socia e Falta de treinamento dos colaboradores.
@@ -18,3 +18,6 @@ Analisar os principais riscos de Cibersegurança enfrentados por pequenas e méd
   <li>Utilizar o NotebookLM para analisar e relacionar diferentes fontes;</li>
   <li>Desenvolver um miniguia de Cibersegurança aplicável a pequenas e médias empresas.</li>
 </ul>
+
+# Curadoria de Fontes
+Durante o projeto foram selecionadas fontes de pesquisa em conformidade com os objetivos apresentados. Dentre fontes como vídeos, arquivos em PDF. Dessa forma, seguem as fontes pesquisadas com os seus repsctivos links de acesso. 
